@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning React NextJs
 - 💞️ I’m looking to collaborate on new Project
 - 📫 How to reach me reekpatra171@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 reekpatra/reekpatra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
